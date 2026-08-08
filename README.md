@@ -155,7 +155,25 @@ Software Engineering
 </div>
 
 ---
+---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ru-shetty/ru-shetty/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ru-shetty/ru-shetty/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ru-shetty/ru-shetty/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 # 🤝 Connect With Me
 
 <div align="center">
@@ -167,6 +185,7 @@ Software Engineering
 </div>
 
 ---
+
 
 <div align="center">
 
